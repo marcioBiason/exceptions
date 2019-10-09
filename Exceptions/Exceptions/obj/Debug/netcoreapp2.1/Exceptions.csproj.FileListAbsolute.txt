@@ -1,0 +1,11 @@
+C:\ProjetoGit\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.deps.json
+C:\ProjetoGit\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.runtimeconfig.json
+C:\ProjetoGit\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.runtimeconfig.dev.json
+C:\ProjetoGit\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.dll
+C:\ProjetoGit\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.pdb
+C:\ProjetoGit\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.csprojAssemblyReference.cache
+C:\ProjetoGit\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\ProjetoGit\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.AssemblyInfoInputs.cache
+C:\ProjetoGit\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.AssemblyInfo.cs
+C:\ProjetoGit\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.dll
+C:\ProjetoGit\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.pdb
